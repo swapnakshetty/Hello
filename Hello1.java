@@ -2,7 +2,7 @@ public class Hello1{
 
   public static void main(String[] args){
 
-     System.out.println("Helloooo NIC");
+     System.out.println("Helloooo GIT");
 
    }
 
